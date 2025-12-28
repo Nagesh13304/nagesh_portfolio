@@ -3,4 +3,4 @@ Pillow==10.0.0
 python-decouple==3.8
 pytz==2025.1
 sqlparse==1.8.3
-pip install mysqlclient
+mysqlclient==2.2.0

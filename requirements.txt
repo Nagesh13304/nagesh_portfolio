@@ -4,6 +4,6 @@ python-decouple==3.8
 Pillow==10.4.0
 Django==6.0
 gunicorn
-mysqlclient
+# mysqlclient
 whitenoise
-
+psycopg2-binary
